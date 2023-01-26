@@ -5,7 +5,7 @@ from time import sleep
 import datetime
 
 
-webhook = DiscordWebhook(url='https://discord.com/api/webhooks/1067969743404945529/Lpbsj2P254yHgNVpRV19jAn9HpydJl2KN-8uctM57mlZVvDuFKdw5KaC8qaeF0KF60Dl')
+webhook = DiscordWebhook(url='')
 
 def find_listings():
     print("Initialized.")
